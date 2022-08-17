@@ -1,0 +1,10 @@
+.stopwatch {
+  max-width: 400px
+}
+
+#timeDisplay {
+  text-align: right;
+  font-size: 7em;
+  font-family: monospace;
+}
+
